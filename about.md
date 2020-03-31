@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I am a professional software developer who loves to solve problems, always works to improve my coding knowledge, and constantly strives to write better quality code.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+* [Career and Education](career.md)
+* [Technologies and Languages](tech.md)
+* [Resume](resume.md)
